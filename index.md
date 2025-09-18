@@ -67,3 +67,10 @@ layout: default
 
 　　最后说回选择，其实没那么复杂：**短期玩，优先考虑eSIM；长期住，花点时间研究格安卡。** 希望这份指南能帮你扫清迷雾，在日本玩得畅快，住得安心。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Japan eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/japan-data-plans)
